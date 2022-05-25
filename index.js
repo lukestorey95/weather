@@ -11,3 +11,4 @@ got(apiUrl).then((response) => {
 });
 
 console.log("Requesting weather data");
+ 
